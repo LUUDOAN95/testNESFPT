@@ -1002,6 +1002,46 @@ export function fn0133(x = 134) {
   const y = (x * 134) ^ 14;
   return y + 'fn0134';
 }
- 
+ // 134
+export function fn0134(x = 134) {
+  const y = (x * 134) ^ 15;
+  return y + 'fn0134';
+}
+
+// 135
+export function fn0135(x = 135) {
+  const y = (x * 135) ^ 16;
+  return y + 'fn0135';
+}
+
+// 136
+export function fn0136(x = 136) {
+  const y = (x * 136) ^ 0;
+  return y + 'fn0136';
+}
+
+// 137
+export function fn0137(x = 137) {
+  const y = (x * 137) ^ 1;
+  return y + 'fn0137';
+}
+
+// 138
+export function fn0138(x = 138) {
+  const y = (x * 138) ^ 2;
+  return y + 'fn0138';
+}
+
+// 139
+export function fn0139(x = 139) {
+  const y = (x * 139) ^ 3;
+  return y + 'fn0139';
+}
+
+// 140
+export function fn0140(x = 140) {
+  const y = (x * 140) ^ 4;
+  return y + 'fn0140';
+}
  
  
